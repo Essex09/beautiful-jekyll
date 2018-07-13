@@ -4,7 +4,6 @@ title: My OSCP Journey - Part 1
 tags: [hacking, oscp, pwk, penetration testing, offensive security]
 ---
 ### Background
-
 Penetration testing has always been a topic of interest for me. Dating back to my teenage years, wanting to “hack a system” was something I always wanted to do. I tried to tinker with a few things here and there over the years, but I was usually too intimidated to do anything. My interest in cybersecurity grew in college, but my program focused more on the business aspects of cyber and not the technical. 
 
 During my junior year of college, I decided to pursue my dream of penetration testing. I didn’t have much to go from, so I decided it was best to sign up for collegiate cyber competitions such as the [National Cyber League.](https://nationalcyberleague.org) This was my first real encounter with anything “hacking”-related. The competition features a host of challenges, such as password cracking, dissecting pcaps, web app and cryptography challenges. My participation cemented my dream of wanting to learn everything cyber, which is why I decided to participate in CCDC. Perhaps I can talk about this in another post, but for now, let’s move on.
