@@ -133,6 +133,7 @@ title-separator: "-"
 timezone: "America/EST"
 markdown: kramdown
 highlighter: rouge
+# permalink: /:year-:month-:day-:title/
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
