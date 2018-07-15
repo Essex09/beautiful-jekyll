@@ -22,4 +22,4 @@ About three weeks in, I popped my first box, bob. Thinking back, I was fairly ne
 
 It was over the next 90 days that I really built my confidence. I remember a couple weeks of multiple boxes getting popped over the course of a few days. At this point, I was ready to challenge the exam. My first exam attempt was  scheduled for October 19, 2017, five months after I started.
 
-[Part 2](../2018-07-14-my-oscp-journey-2.md)
+[Part 2](../2018-07-14-my-oscp-journey-2)
